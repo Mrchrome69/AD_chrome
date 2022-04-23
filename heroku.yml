@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /AD_chrome/Dockerfile
+run:
+   worker: npm start
