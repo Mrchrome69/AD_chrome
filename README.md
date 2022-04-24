@@ -51,7 +51,7 @@ Project created by <a href="https://github.com/mrchrome69">mrchrome69</a> to mak
 
   
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://https://replit.com/@ParthaSaradhy/ADchrome-QR-code?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ParthaSaradhy/ADchrome-QR-code?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrchrome69/AD_chrome)
 
