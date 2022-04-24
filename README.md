@@ -198,9 +198,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
     
 
-  [![`Prince Rudh`](https://github.com/mrchrome69.png?size=200)](https://github.com/mrchrome69)
+  [![`Prince Rudh`](https://i.imgur.com/sgMm5rj.jpeg?size=200)](https://github.com/mrchrome69)
 
-[`Ameer Suhail`](https://github.com/mrchrome69)  
+[`mrchrome69`](https://github.com/mrchrome69)  
 
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
 
