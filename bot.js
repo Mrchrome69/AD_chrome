@@ -8,7 +8,7 @@ WhatsAsena - Yusuf Usta
 const fs = require("fs");
 const path = require("path");
 const events = require("./events");
-const ameer = require("./ameer");
+const ameer = require("./parthan");
 const AD_chrome = require('./AD_chrome');
 const { FakeDB, takeMessage } = require("./plugins/sql/fake");
 const chalk = require('chalk');
