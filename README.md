@@ -70,7 +70,7 @@ bash <(curl -L https://t.ly/tHxh)
 
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
 
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@mrchrome69/AD_chrome-QR?v=1)
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://github.com/mrchrome69/AD_chrome?v=1)
 
  
 
