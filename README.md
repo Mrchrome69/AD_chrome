@@ -5,8 +5,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+AD_chrome+WA+BOT+REPO.;CREATED+BY+Parthan+and+Adwaith;[THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
 
 
- align="center">
-
  </a>
 
 </p>
@@ -55,7 +53,6 @@ Project created by <a href="https://github.com/mrchrome69">mrchrome69</a> to mak
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrchrome69/AD_chrome)
 
-     </div>
 
 <br>
 
